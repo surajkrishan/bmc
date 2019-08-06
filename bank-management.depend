@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1565119771 source:/home/nishanth/Desktop/BMC/bank-management/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
